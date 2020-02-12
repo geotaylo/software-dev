@@ -1,5 +1,3 @@
-.. code:: rst
-
     |TRAVIS|
 *Once you have your TRAVIS build running and your badge successfully added down the bottom of the README, you can use the above to add a shiny badge at the top of your repo.*
 
@@ -80,5 +78,4 @@ Badges
 ======
 Adjust the URLs here to point to your own Travis badge!
 
-.. 
 [![Build Status](https://travis-ci.com/geotaylo/software-dev.svg?branch=master)](https://travis-ci.com/geotaylo/software-dev)
