@@ -81,7 +81,4 @@ Badges
 Adjust the URLs here to point to your own Travis badge!
 
 .. 
-
-|TRAVIS| image:: https://travis-ci.com/geotaylo/software-dev/builds/148500799
-:alt: Travis Badge
-:target: https://travis-ci.com/geotaylo/software-dev
+[![Build Status](https://travis-ci.com/geotaylo/software-dev.svg?branch=master)](https://travis-ci.com/geotaylo/software-dev)
